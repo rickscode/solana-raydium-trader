@@ -1,0 +1,30 @@
+{
+  "name": "solana-raydium-trader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rickscode/solana-raydium-trader.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/rickscode/solana-raydium-trader/issues"
+  },
+  "homepage": "https://github.com/rickscode/solana-raydium-trader#readme",
+  "dependencies": {
+    "@raydium-io/raydium-sdk-v2": "^0.1.126-alpha",
+    "@solana/spl-token": "^0.4.13",
+    "@solana/web3.js": "^1.98.1",
+    "axios": "^1.8.4",
+    "dot-env": "^0.0.1",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  }
+}
