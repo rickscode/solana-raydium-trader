@@ -95,7 +95,7 @@ Estimates return for full token sell to SOL.
 npm install
 ```
 
-Update your `config.js` with:
+Update your `.env` with:
 
 - RPC connection
 - Wallet keypair (`owner`)
@@ -106,7 +106,7 @@ Update your `config.js` with:
 ## 🚀 Usage
 
 ```bash
-node sniper.js
+node trade.js
 ```
 
 ---
