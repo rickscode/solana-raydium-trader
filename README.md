@@ -66,7 +66,7 @@ Gets token USD price from DexScreener.
 
 ### 5. Fetch Swap Quote
 
-Uses Raydium SDK to simulate a $0.10 buy in SOL.
+Uses Raydium SDK to simulate a buy in SOL.
 
 ### 6. Fetch Sell Quote
 
