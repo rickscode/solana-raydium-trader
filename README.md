@@ -23,7 +23,7 @@ This app is the open source content of a larger trading bot it can work as a sta
 
 ```
 project/
-├── sniper.js                # Main logic
+├── trade.js                # Main logic
 ├── config.js                # Wallet, connection, helper functions
 ├── package.json             # Dependencies
 ```
