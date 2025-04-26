@@ -1,6 +1,6 @@
 # Solana Token Sniper and Trader Bot
 
-This app is the open source content of a larger trading bot it can work as a stand alone trading bot it automates the process of finding, validating, and trading newly listed Solana tokens using public APIs from Raydium, DexScreener, RugCheck, and CoinGecko. It's designed as the backend logic for a future wallet protection and token auto-trading tool.
+This app is the open source content of a larger trading bot it can work as a stand alone trading bot it automates the process of finding, validating, and trading newly listed Solana tokens using public APIs from Raydium, DexScreener, RugCheck, and CoinGecko. 
 
 ---
 
